@@ -10,11 +10,6 @@ tags:
 ---
 
 
-```python
-def print_hi(name)
-  print("Hi {}!".format(name})"
-end
+New post
 
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+

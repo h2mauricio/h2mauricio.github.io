@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Mauricio Hernandez"
+  name   : "Mauricio H"
   avatar : "/assets/images/my-photo.jpg"
   bio    : "PhD Student in Energy and Enviroment"
   links:
