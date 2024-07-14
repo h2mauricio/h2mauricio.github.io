@@ -64,12 +64,11 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://mauricioh2.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-link"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/h2mauricio"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://https://www.linkedin.com/in/h2mauricio/
-
+      icon: "fas fa-fw fa-link"
+      url: "https://https://www.linkedin.com/in/h2mauricio/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
