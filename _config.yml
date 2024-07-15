@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Mauricio H"
+  name   : "Mauricio Hernandez"
   avatar : "/assets/images/my-photo.jpg"
   bio    : "PhD Student in Energy and Enviroment"
   links:
@@ -68,7 +68,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/h2mauricio"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/h2mauricio/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -82,9 +82,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/h2mauricio"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/h2mauricio/"
 
 defaults:
   # _posts
