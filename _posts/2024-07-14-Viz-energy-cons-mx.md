@@ -10,6 +10,8 @@ tags:
 ---
 
 
-New post
+The number of Photovoltaics Plants in California has grown considerably in the last 10 years. The next Figure shows this trend:
+ 
+
 
 
