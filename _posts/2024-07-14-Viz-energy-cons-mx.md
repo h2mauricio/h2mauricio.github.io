@@ -8,12 +8,14 @@ tags:
   - California
 ---
 
+- [Title](#title)
+  - [Subtitle](#subtitle)
+    - [Equation](#equation)
+
+
 
 # Title
 The number of Photovoltaics Plants in California has grown considerably in the last 10 years. The next Figure shows this trend:
-
-
-insert image *markdown*
 
 
 ## Subtitle
@@ -23,6 +25,7 @@ insert image *markdown*
 - two
 - three
 
-![image](../assets/images/bio-photo.jpg)
+![my picture](../assets/images/my-photo.jpg)
 
+### Equation
 $a + f$
