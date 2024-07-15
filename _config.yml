@@ -68,7 +68,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/h2mauricio"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/h2mauricio/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
