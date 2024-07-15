@@ -25,7 +25,7 @@ The number of Photovoltaics Plants in California has grown considerably in the l
 - two
 - three
 
-![my picture](../assets/images/my-photo.jpg)
+![my picture](/assets/images/my-photo.jpg)
 
 ### Equation
 $a + f$
