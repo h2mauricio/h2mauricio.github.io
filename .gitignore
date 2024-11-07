@@ -4,3 +4,5 @@ _site
 Gemfile.lock
 
 pfg-env/*
+.env
+pfg-foreseer/data/*
